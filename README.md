@@ -2,11 +2,11 @@
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
-| A |   |   |   |
+| A |❌ |   |   |
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**Jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Jogador- 1 Mateus 
+- ⭕ Jogador- 2 Mateus
